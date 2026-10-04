@@ -1,6 +1,9 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
 import Button from "../Button";
+import project1 from "../../assets/project1.png";
+import project2 from "../../assets/project2.png";
+import project3 from "../../assets/project3.png";
 
 export type Project = {
   id: number;
@@ -15,7 +18,7 @@ const cards = [
     id: 1,
     title: "Full-Stack Social Media",
     color: "#1f2937",
-    imagePath: "/images/project1.png",
+    imagePath: project1,
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },
@@ -23,7 +26,7 @@ const cards = [
     id: 2,
     title: "Inventory FullStack",
     color: "#1f2937",
-    imagePath: "/images/project2.png",
+    imagePath: project2,
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },
@@ -31,7 +34,7 @@ const cards = [
     id: 3,
     title: "React Native Inflancer",
     color: "#1f2937",
-    imagePath: "/images/project3.png",
+    imagePath: project3,
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },

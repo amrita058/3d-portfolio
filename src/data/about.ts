@@ -21,7 +21,7 @@ export const ABOUT = {
   ],
 
   LINKS: [
-    { title: "GitHub", href: "https://github.com/amrita058" },
+    { title: "GitHub", href: "https://github.com/" },
     {
       title: "Resume",
       href: "https://drive.google.com/file/d/1v-xC8izQ8SK0so7I--H3FJ65LmyfKHNE/view?usp=sharing",

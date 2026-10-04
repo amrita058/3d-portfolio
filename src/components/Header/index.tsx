@@ -10,7 +10,7 @@ export default function Header() {
         transition={{ duration: 0.6, ease: "easeInOut" }}
       >
         <div className="text-purple-300 flex text-4xl font-extrabold font-stretch-expanded">
-          <span className="text-purple-50 mr-2 ">Amrita</span>Bhattarai
+          <span className="text-purple-50 mr-2 ">Your</span>Name
         </div>
       </motion.div>
     </div>

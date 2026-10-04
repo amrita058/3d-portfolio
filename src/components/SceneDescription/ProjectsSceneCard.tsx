@@ -15,7 +15,7 @@ const cards = [
     id: 1,
     title: "Full-Stack Social Media",
     color: "#1f2937",
-    imagePath: "/public/images/project1.png",
+    imagePath: "/images/project1.png",
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },
@@ -23,7 +23,7 @@ const cards = [
     id: 2,
     title: "Inventory FullStack",
     color: "#1f2937",
-    imagePath: "/public/images/project2.png",
+    imagePath: "/images/project2.png",
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },
@@ -31,7 +31,7 @@ const cards = [
     id: 3,
     title: "React Native Inflancer",
     color: "#1f2937",
-    imagePath: "/public/images/project3.png",
+    imagePath: "/images/project3.png",
     description:
       "Complete social media platform with MERN stack and real-time features.",
   },
